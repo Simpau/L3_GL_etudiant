@@ -29,5 +29,4 @@ make
 ```
 ./drunk_player_gui.out ../data/
 ```
-![image](drung_player_gui.png)
-Format : ![alt Text](url)
+![image](drunk_player_gui.png)
